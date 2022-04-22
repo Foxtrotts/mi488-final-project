@@ -1,0 +1,31 @@
+body {
+  text-align: center;
+  background-color: #46a5ac;
+  color: #ffffff;
+  font-size: 20px;
+}
+
+h1 {
+  border-bottom: 5px solid white;
+}
+
+h2 {
+  margin-bottom: 5%;
+  margin-top: 10%;
+}
+
+main {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin: 80px;
+}
+
+.table, th, td {
+  border: 5px solid;
+}
+u:hover {
+  opacity: 30%;
+  cursor: pointer;
+}
